@@ -58,6 +58,14 @@ An optimized Nginx image for serving static content and reverse proxying. Includ
 
 ---
 
+### 8. **Go**  
+**Image**: [`ghcr.io/bane-nor/golang`](https://github.com/bn-apps/golang)  
+[![Container Build](https://github.com/Bane-NOR/golang/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/Bane-NOR/golang/actions/workflows/docker-image.yml)
+A base image for running build apps using [Go](https://go.dev/), Go (golang) is a general purpose, higher-level, imperative programming language.
+
+
+---
+
 ## 📘 How to Use  
 To pull an image, use the following command:  
 ```bash
